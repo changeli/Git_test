@@ -4,5 +4,3 @@ v.0.5
 v.0.6
 master
 
-branch-debug:debuging/debug finish/
-branch-dev:deving/dev finish/
