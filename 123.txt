@@ -5,4 +5,4 @@ v.0.6
 master
 
 branch-debug:debuging/debug finish/
-branch-dev:deving/function1/
+branch-dev:deving/function1/function2/
